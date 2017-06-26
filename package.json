@@ -1,0 +1,19 @@
+{
+  "name": "colorpicker-vue",
+  "version": "1.0.0",
+  "description": "颜色编辑器vue组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuchur/colorPicker-vue.git"
+  },
+  "author": "chuchur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuchur/colorPicker-vue/issues"
+  },
+  "homepage": "https://github.com/chuchur/colorPicker-vue#readme"
+}
