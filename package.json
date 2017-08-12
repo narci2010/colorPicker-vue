@@ -1,6 +1,6 @@
 {
   "name": "colorpicker-vue",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "颜色编辑器vue组件",
   "main": "index.js",
   "scripts": {
